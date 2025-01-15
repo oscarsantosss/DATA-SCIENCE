@@ -1,3 +1,1 @@
-print("EYEYEYEYEYYEEEE")
-print("Hola soy nuevo")
-print ("DEVELOP")
+print("Hola soy Nuevo1")
